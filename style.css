@@ -63,6 +63,11 @@ table, td{
     font-size: 20px;
     padding-bottom: 15px;
 }
+.main-container a{
+    color: black;
+    font-size: 20px;
+    padding-bottom: 15px;
+}
 .subSectionRight li{
     padding-bottom: 20px;
 }
